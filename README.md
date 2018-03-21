@@ -1,0 +1,2 @@
+# Encom
+my discord project
